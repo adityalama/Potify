@@ -14,7 +14,7 @@ new Vue({
           artist: "BlackPink",
           cover: "../img/1.jpg",
           source: "../mp3/1.mp3",
-          url: "https://www.youtube.com/watch?v=2S24-y0Ij3Y&ab_channel=BLACKPINK",
+          url: "https://youtube.com/watch?v=2S24-y0Ij3Y",
           favorited: false
         },
         {
